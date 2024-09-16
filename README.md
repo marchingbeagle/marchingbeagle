@@ -1,6 +1,6 @@
 ### Hi, my name is Erik
 
-I am a software engineer student in process of career changing. My goal is to work on fullstac development, open for internship opportunities to start my professional experience process to develop my skills as a Dev.
+I am a software engineer student who loves to learn new things and mess up with my system. My goal is to work on fullstack development, open for internship opportunities to start my professional experience process to develop my skills as a Developer.
 
 ## 🧑🏻‍💻 Technology stack:
 
